@@ -7,8 +7,8 @@ import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.AbstractController;
 
 public class HelloWorldController extends AbstractController {
-
-	@Override
+//2nd commit
+	/*@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request,
 			HttpServletResponse response) throws Exception {
 
@@ -17,5 +17,5 @@ public class HelloWorldController extends AbstractController {
 
 		return model;
 	}
-
+*/
 }
