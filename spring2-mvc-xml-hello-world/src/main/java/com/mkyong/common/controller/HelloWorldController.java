@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.AbstractController;
 
-public class HelloWorldController extends AbstractController {
+//public class HelloWorldController extends AbstractController {
 //2nd commit
 	/*@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request,
